@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"> 
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Explore detailed course information and multiple free learning resources on LearnSphere."
+    >
+
+    <title>Course Details | LearnSphere</title>
+
+    <!-- Shared website design -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- Course-details-specific styling -->
+    <link rel="stylesheet" href="css/details.css">
+</head>
+
+<body>
+
+    <!-- =====================================================
+         NAVIGATION
+         Uses the same class names as the shared style.css
+         ===================================================== -->
+
+    <header class="navbar">
+
+        <div class="nav-container container">
+
+            <a href="index.html" class="logo">
+                Learn<span>Sphere</span>
+            </a>
+
+            <button
+                class="menu-toggle"
+                type="button"
+                aria-label="Open navigation menu"
+                aria-expanded="false"
+            >
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+
+            <nav class="nav-links" aria-label="Primary navigation">
+
+                <a href="index.html" class="nav-link">
+                    Home
+                </a>
+
+                <a href="courses.html" class="nav-link active">
+                    Courses
+                </a>
+
+                <a href="about.html" class="nav-link">
+                    About
+                </a>
+
+                <a href="index.html#learnbot" class="nav-learnbot">
+                    LearnBot
+                </a>
+
+            </nav>
+
+        </div>
+
+    </header>
+
+
+    <!-- =====================================================
+         MAIN COURSE DETAILS
+         ===================================================== -->
+
+    <main class="details-main">
+
+        <div class="container">
+
+            <!-- Short loading message only -->
+            <div
+                id="details-status"
+                class="details-status"
+                aria-live="polite"
+            >
+                Loading course...
+            </div>
+
+
+            <!-- Dynamic course content -->
+            <section
+                id="course-details"
+                class="course-details"
+                aria-live="polite"
+            >
+            </section>
+
+        </div>
+
+    </main>
+
+
+    <!-- =====================================================
+         FOOTER
+         ===================================================== -->
+
+    <footer class="footer">
+
+        <div class="container footer-container">
+
+            <div class="footer-brand">
+
+                <a href="index.html" class="logo">
+                    Learn<span>Sphere</span>
+                </a>
+
+                <p>
+                    Learn skills. Build your future.
+                </p>
+
+            </div>
+
+
+            <div class="footer-links">
+
+                <div>
+                    <h4>LearnSphere</h4>
+
+                    <a href="index.html">
+                        Home
+                    </a>
+
+                    <a href="courses.html">
+                        Courses
+                    </a>
+
+                    <a href="about.html">
+                        About
+                    </a>
+                </div>
+
+                <div>
+                    <h4>Learning</h4>
+
+                    <a href="courses.html">
+                        Explore Courses
+                    </a>
+
+                    <a href="index.html#learnbot">
+                        LearnBot
+                    </a>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div class="container footer-bottom">
+
+            <p>
+                © 2026 LearnSphere. All rights reserved.
+            </p>
+
+            <p>
+                Learn something new every day.
+            </p>
+
+        </div>
+
+    </footer>
+
+
+    <!-- Course details JavaScript -->
+    <script src="js/details.js" defer></script>
+
+</body>
+
+</html>

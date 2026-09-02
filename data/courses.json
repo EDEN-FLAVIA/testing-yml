@@ -1,0 +1,529 @@
+[
+    {
+        "id": "python",
+        "title": "Python Programming",
+        "category": "Programming",
+        "difficulty": "Beginner",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Learn Python programming from the fundamentals through practical exercises covering syntax, variables, data types, control flow, functions, collections and problem solving.",
+        "whatYouWillLearn": [
+            "Python syntax and fundamentals",
+            "Variables and data types",
+            "Conditional statements and loops",
+            "Functions",
+            "Lists, tuples, sets and dictionaries",
+            "Problem solving with Python"
+        ],
+        "prerequisites": [
+            "No prior programming experience required."
+        ],
+        "link": "https://www.freecodecamp.org/learn/python-v9/",
+        "free": true,
+        "resources": [
+            {
+                "platform": "freeCodeCamp",
+                "type": "Interactive Course",
+                "description": "Learn Python through the current freeCodeCamp Python curriculum.",
+                "url": "https://www.freecodecamp.org/learn/python-v9/"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Find full-length Python programming courses and tutorials from established programming educators.",
+                "url": "https://www.youtube.com/results?search_query=python+full+course+for+beginners"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore free digital learning and programming resources available through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    },
+
+    {
+        "id": "java",
+        "title": "Java Programming",
+        "category": "Programming",
+        "difficulty": "Beginner",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Build a foundation in Java programming including variables, control flow, methods, classes, objects, inheritance and core object-oriented programming concepts.",
+        "whatYouWillLearn": [
+            "Java syntax and program structure",
+            "Variables and data types",
+            "Conditional statements and loops",
+            "Methods",
+            "Classes and objects",
+            "Object-oriented programming fundamentals"
+        ],
+        "prerequisites": [
+            "Basic computer knowledge recommended."
+        ],
+        "link": "https://dev.java/learn/",
+        "free": true,
+        "resources": [
+            {
+                "platform": "Dev.java",
+                "type": "Official Learning Resource",
+                "description": "Official Java learning material covering Java language fundamentals and core concepts.",
+                "url": "https://dev.java/learn/"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Find beginner-friendly Java programming courses and complete tutorials.",
+                "url": "https://www.youtube.com/results?search_query=java+programming+full+course+for+beginners"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore free programming and digital-skills learning resources through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    },
+
+    {
+        "id": "web-development",
+        "title": "Responsive Web Design",
+        "category": "Web Development",
+        "difficulty": "Beginner",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Learn how to create responsive websites using HTML and CSS, including page structure, layouts, Flexbox, responsive techniques and accessibility fundamentals.",
+        "whatYouWillLearn": [
+            "HTML fundamentals",
+            "CSS fundamentals",
+            "Flexbox layouts",
+            "Responsive design",
+            "Media queries",
+            "Accessibility fundamentals"
+        ],
+        "prerequisites": [
+            "No prior web-development experience required."
+        ],
+        "link": "https://www.freecodecamp.org/learn/2022/responsive-web-design/",
+        "free": true,
+        "resources": [
+            {
+                "platform": "freeCodeCamp",
+                "type": "Interactive Course",
+                "description": "Build responsive websites through projects and interactive challenges.",
+                "url": "https://www.freecodecamp.org/learn/2022/responsive-web-design/"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore complete responsive web-design tutorials covering HTML and CSS.",
+                "url": "https://www.youtube.com/results?search_query=responsive+web+design+html+css+full+course"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore web-development and digital-skills learning resources available through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    },
+
+    {
+        "id": "javascript",
+        "title": "JavaScript",
+        "category": "Web Development",
+        "difficulty": "Intermediate",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Develop practical JavaScript skills covering programming fundamentals, functions, arrays, objects, DOM concepts, modern JavaScript and problem solving.",
+        "whatYouWillLearn": [
+            "JavaScript fundamentals",
+            "Variables and data types",
+            "Functions and scope",
+            "Arrays and objects",
+            "DOM manipulation",
+            "Modern JavaScript concepts"
+        ],
+        "prerequisites": [
+            "Basic HTML and CSS knowledge recommended."
+        ],
+        "link": "https://www.freecodecamp.org/learn/javascript-v9/",
+        "free": true,
+        "resources": [
+            {
+                "platform": "freeCodeCamp",
+                "type": "Interactive Course",
+                "description": "Learn JavaScript through the current freeCodeCamp JavaScript curriculum.",
+                "url": "https://www.freecodecamp.org/learn/javascript-v9/"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore full JavaScript courses covering fundamentals and practical development.",
+                "url": "https://www.youtube.com/results?search_query=javascript+full+course+for+beginners"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore programming and web-development learning resources through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    },
+
+    {
+        "id": "react",
+        "title": "React Development",
+        "category": "Web Development",
+        "difficulty": "Intermediate",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Learn React concepts including components, JSX, props, state, event handling, hooks and reusable user-interface development.",
+        "whatYouWillLearn": [
+            "React fundamentals",
+            "Components",
+            "JSX",
+            "Props and state",
+            "Event handling",
+            "React hooks"
+        ],
+        "prerequisites": [
+            "Basic HTML, CSS and JavaScript knowledge recommended."
+        ],
+        "link": "https://react.dev/learn",
+        "free": true,
+        "resources": [
+            {
+                "platform": "React.dev",
+                "type": "Official Learning Resource",
+                "description": "Official React documentation and interactive learning material.",
+                "url": "https://react.dev/learn"
+            },
+            {
+                "platform": "freeCodeCamp",
+                "type": "Learning Resource",
+                "description": "Explore React tutorials and practical front-end development resources from freeCodeCamp.",
+                "url": "https://www.freecodecamp.org/news/react-tutorial-build-a-project/"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore complete React courses and practical project tutorials.",
+                "url": "https://www.youtube.com/results?search_query=react+js+full+course+for+beginners"
+            }
+        ]
+    },
+
+    {
+        "id": "sql",
+        "title": "SQL & Relational Databases",
+        "category": "Database",
+        "difficulty": "Beginner",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Learn SQL and relational database fundamentals including tables, queries, filtering, sorting, data manipulation and joins.",
+        "whatYouWillLearn": [
+            "Relational database concepts",
+            "SQL syntax",
+            "SELECT queries",
+            "Filtering and sorting",
+            "INSERT, UPDATE and DELETE",
+            "JOIN operations"
+        ],
+        "prerequisites": [
+            "Basic computer knowledge recommended."
+        ],
+        "link": "https://www.freecodecamp.org/learn/relational-database/",
+        "free": true,
+        "resources": [
+            {
+                "platform": "freeCodeCamp",
+                "type": "Interactive Course",
+                "description": "Learn relational databases through project-based SQL and database exercises.",
+                "url": "https://www.freecodecamp.org/learn/relational-database/"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore complete SQL courses covering queries, joins and relational database concepts.",
+                "url": "https://www.youtube.com/results?search_query=sql+full+course+for+beginners"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore database, programming and digital-skills learning resources through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    },
+
+    {
+        "id": "pandas",
+        "title": "Pandas for Data Analysis",
+        "category": "Data Science",
+        "difficulty": "Intermediate",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Learn practical pandas skills for reading, selecting, transforming, grouping and combining data for analysis.",
+        "whatYouWillLearn": [
+            "Creating and reading data",
+            "Indexing and selecting data",
+            "Summary and aggregation functions",
+            "Grouping and sorting",
+            "Handling missing values",
+            "Combining datasets"
+        ],
+        "prerequisites": [
+            "Basic Python knowledge recommended."
+        ],
+        "link": "https://www.kaggle.com/learn/pandas",
+        "free": true,
+        "resources": [
+            {
+                "platform": "Kaggle",
+                "type": "Hands-on Course",
+                "description": "Practice pandas through interactive data-analysis exercises.",
+                "url": "https://www.kaggle.com/learn/pandas"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore pandas tutorials covering data frames, filtering, grouping and data analysis.",
+                "url": "https://www.youtube.com/results?search_query=pandas+data+analysis+full+course"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore data-science and programming learning resources available through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    },
+
+    {
+        "id": "machine-learning",
+        "title": "Introduction to Machine Learning",
+        "category": "Artificial Intelligence",
+        "difficulty": "Beginner",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Learn the fundamental ideas behind machine learning and build an understanding of practical predictive modelling workflows.",
+        "whatYouWillLearn": [
+            "Machine learning fundamentals",
+            "Training and validation concepts",
+            "Underfitting and overfitting",
+            "Decision trees and random forests",
+            "Model evaluation",
+            "Practical machine learning workflows"
+        ],
+        "prerequisites": [
+            "Basic Python knowledge recommended."
+        ],
+        "link": "https://www.kaggle.com/learn/intro-to-machine-learning",
+        "free": true,
+        "resources": [
+            {
+                "platform": "Kaggle",
+                "type": "Hands-on Course",
+                "description": "Learn introductory machine learning concepts through practical exercises.",
+                "url": "https://www.kaggle.com/learn/intro-to-machine-learning"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore beginner-friendly machine learning courses covering core concepts and Python-based examples.",
+                "url": "https://www.youtube.com/results?search_query=machine+learning+with+python+full+course+beginners"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore AI, machine-learning and emerging-technology learning resources through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    },
+
+    {
+        "id": "intermediate-machine-learning",
+        "title": "Intermediate Machine Learning",
+        "category": "Artificial Intelligence",
+        "difficulty": "Intermediate",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Develop practical machine learning skills covering missing values, categorical variables, pipelines, cross-validation, model improvement and data leakage.",
+        "whatYouWillLearn": [
+            "Missing-value handling",
+            "Categorical variables",
+            "Machine learning pipelines",
+            "Cross-validation",
+            "Model improvement",
+            "Data leakage"
+        ],
+        "prerequisites": [
+            "Basic Python and introductory machine learning knowledge recommended."
+        ],
+        "link": "https://www.kaggle.com/learn/intermediate-machine-learning",
+        "free": true,
+        "resources": [
+            {
+                "platform": "Kaggle",
+                "type": "Hands-on Course",
+                "description": "Practice intermediate machine learning concepts through coding exercises.",
+                "url": "https://www.kaggle.com/learn/intermediate-machine-learning"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore intermediate machine learning tutorials covering model improvement and practical workflows.",
+                "url": "https://www.youtube.com/results?search_query=intermediate+machine+learning+full+course"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore AI and machine-learning learning resources available through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    },
+
+    {
+        "id": "data-visualization",
+        "title": "Data Visualization",
+        "category": "Data Science",
+        "difficulty": "Intermediate",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Learn how to create effective visualizations and communicate data insights using charts, distributions and practical visualization techniques.",
+        "whatYouWillLearn": [
+            "Line charts",
+            "Bar charts",
+            "Scatter plots",
+            "Heatmaps",
+            "Distributions",
+            "Choosing effective chart types"
+        ],
+        "prerequisites": [
+            "Basic Python knowledge recommended."
+        ],
+        "link": "https://www.kaggle.com/learn/data-visualization",
+        "free": true,
+        "resources": [
+            {
+                "platform": "Kaggle",
+                "type": "Hands-on Course",
+                "description": "Learn data visualization through practical exercises.",
+                "url": "https://www.kaggle.com/learn/data-visualization"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore data-visualization tutorials covering Matplotlib, charts and practical examples.",
+                "url": "https://www.youtube.com/results?search_query=data+visualization+python+full+course"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore data-science and visualization-related learning resources through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    },
+
+    {
+        "id": "git-github",
+        "title": "Git & GitHub",
+        "category": "Developer Tools",
+        "difficulty": "Beginner",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Learn Git and GitHub fundamentals including repositories, commits, branches, pull requests, collaboration and version-control workflows.",
+        "whatYouWillLearn": [
+            "Git fundamentals",
+            "Repositories",
+            "Commits",
+            "Branches",
+            "Pull requests",
+            "GitHub collaboration workflows"
+        ],
+        "prerequisites": [
+            "No prior Git or GitHub experience required."
+        ],
+        "link": "https://skills.github.com/",
+        "free": true,
+        "resources": [
+            {
+                "platform": "GitHub Skills",
+                "type": "Interactive Course",
+                "description": "Learn GitHub through practical hands-on exercises.",
+                "url": "https://skills.github.com/"
+            },
+            {
+                "platform": "freeCodeCamp",
+                "type": "Learning Resource",
+                "description": "Learn Git and GitHub concepts through practical tutorials and guides.",
+                "url": "https://www.freecodecamp.org/news/git-and-github-for-beginners/"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore Git and GitHub beginner courses covering repositories, branches and collaboration.",
+                "url": "https://www.youtube.com/results?search_query=git+and+github+full+course+for+beginners"
+            }
+        ]
+    },
+
+    {
+        "id": "cybersecurity",
+        "title": "Cybersecurity Fundamentals",
+        "category": "Cybersecurity",
+        "difficulty": "Beginner",
+        "duration": "Self-paced",
+        "platform": "Multiple Platforms",
+        "instructor": "Various",
+        "description": "Build a foundation in cybersecurity concepts including threats, attacks, social engineering, cryptography, security practices and threat awareness.",
+        "whatYouWillLearn": [
+            "Cybersecurity fundamentals",
+            "Common cyber attacks",
+            "Social engineering",
+            "Cryptography fundamentals",
+            "Security strategies",
+            "Threat awareness"
+        ],
+        "prerequisites": [
+            "Basic computer knowledge recommended."
+        ],
+        "link": "https://skillsforall.com/",
+        "free": true,
+        "resources": [
+            {
+                "platform": "Cisco Skills for All",
+                "type": "Online Course",
+                "description": "Explore foundational cybersecurity learning through Cisco's free learning platform.",
+                "url": "https://skillsforall.com/"
+            },
+            {
+                "platform": "YouTube",
+                "type": "Video Course",
+                "description": "Explore beginner cybersecurity courses covering security fundamentals, threats and defensive concepts.",
+                "url": "https://www.youtube.com/results?search_query=cybersecurity+fundamentals+full+course+for+beginners"
+            },
+            {
+                "platform": "Infosys Springboard",
+                "type": "Online Learning Platform",
+                "description": "Explore cybersecurity and digital-security learning resources available through Infosys Springboard.",
+                "url": "https://www.infosys.com/about/esg/esg-opportunity/springboard.html"
+            }
+        ]
+    }
+]
